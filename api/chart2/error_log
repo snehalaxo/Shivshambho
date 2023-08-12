@@ -1,0 +1,20 @@
+[26-Aug-2021 17:56:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 17:56:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 17:56:10 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 17:56:10 Asia/Kolkata] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 17:56:10 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 55
+[26-Aug-2021 17:56:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 17:56:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 17:56:13 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 17:56:13 Asia/Kolkata] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 17:56:13 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 55
+[26-Aug-2021 18:09:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 18:09:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 18:09:14 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 18:09:14 Asia/Kolkata] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 18:09:14 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 55
+[26-Aug-2021 18:09:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 18:09:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/andrqeah/public_html/projects/betplay_broker/admin/connection/lib/database.php on line 30
+[26-Aug-2021 18:09:21 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 18:09:21 Asia/Kolkata] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 53
+[26-Aug-2021 18:09:21 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/andrqeah/public_html/projects/betplay_broker/api/chart/getChart.php on line 55
